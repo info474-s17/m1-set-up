@@ -33,6 +33,7 @@ Note, classroom machines for this course should have all appropriate software al
 - [Macdown](http://macdown.uranusjr.com/)
 - [Installing Bash on Windows](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 - [Installing WampServer](http://www.howtogeek.com/177129/beginner-geek-how-to-host-your-own-website-on-windows-wamp/)
+
 ## Summary
 In short, you'll need to install the following programs: see below for more information / options.
 - **Git**: A set of command-line tools for tracking changes to a project. This is likely already installed on Macs. The Windows download will come with Git Bash, a simple interface for executing Git commands ([link](https://git-scm.com/downloads)).
