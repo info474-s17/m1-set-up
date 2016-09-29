@@ -10,11 +10,13 @@ Note, classroom machines for this course should have all appropriate software al
 **Contents**
 
 - [Resources](#resources)
+- [Summary](#summary)
 - [Git](#git)
 - [Command-line Tools (Windows)](#command-line-tools-windows)
   - [Git Bash](#git-bash)
   - [Windows Bash](#windows-bash)
   - [Powershell (Windows Management Framework)](#powershell-windows-management-framework)
+- [Web Browser](#web-browser)
 - [Text Editors](#text-editors)
   - [SublimeText](#sublimetext)
   - [Atom](#atom)
@@ -27,6 +29,7 @@ Note, classroom machines for this course should have all appropriate software al
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Resources
+- [Google Chrome](https://www.google.com/chrome/browser/desktop)
 - [SublimeText2](http://www.sublimetext.com/2)
 - [SublimeText3](http://www.sublimetext.com/3)
 - [Atom](https://atom.io/)
@@ -56,6 +59,12 @@ With the release of Windows 10, Windows began providing command line (bash) supp
 
 ### Powershell (Windows Management Framework)
 If you want to explore more robust command-line alternatives for Windows, the Windows Management Framework (including a program called Powershell) seems to be a preferred standard. Powershell will provide a simple text-based interface for inputing commands. Note, you will still **need to install Git** in addition to Powershell.
+
+## Web Browser
+While we will aim to build websites that look good and function well across web browsers, the suggested web browser for _development_ is [Google Chrome](https://www.google.com/chrome/browser/desktop). Amongst other tools, the inspector (right click, Inspect _or_ `cmd` + `alt` + `i`) provides a great way to view page elements and interact with a JavaScript console:
+
+![web browser with document inspector open](imgs/inspector.png)
+
 
 ## Text Editors
 In order to write code, you need somewhere to write it (obviously). There are a variety of available programs that provide an interface for editing code. A major advantage of these programs is that they provide automatic formatting for easier interpretation of the code, along with cool features like auto-completion and integration with version control.
