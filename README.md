@@ -17,7 +17,7 @@ The following sections have additional information about the purpose of each com
 ## Web Browser
 While we will aim to build visualizations that look good and function well across web browsers, the suggested web browser for _development_ is [Google Chrome](https://www.google.com/chrome/browser/desktop). Amongst other tools, the inspector (right click, Inspect _or_ `cmd` + `alt` + `i`) provides a great way to view page elements and interact with a JavaScript console:
 
-![web browser with document inspector open](imgs/m2-set-up/inspector.png)
+![web browser with document inspector open](m2-imgs/inspector.png)
 
 ## Text Editor
 In order to write code, you need somewhere to write it (obviously). There are a variety of available programs that provide an interface for editing code. A major advantage of these programs is that they provide automatic formatting for easier interpretation of the code, along with cool features like auto-completion and integration with version control.
